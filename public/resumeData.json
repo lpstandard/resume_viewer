@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Tony Kung",
+    "occupation":"Full Stack Deveoper",
+    "description":"I like to create things and solve problems by writing code.",
+    "image":"profilepic.jpg",
+    "bio":"I spent my early career in finance and have an MBA. Now I turn my passion into coding. I like to develop great apps to make people's life easier.",
+    "email": "tonykungjs@gmail.com",
+    "phone": "512-686-6897",
+    "address":{
+      "street":"13401 Metric Blvd",
+      "city":"Austin",
+      "state":"TX",
+      "zip":"78727"
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumedownload":"https://www.dropbox.com/s/qaiizih9513swhl/Resume_Tony_Kung_JavaScript_Engineer%20%281%29.pdf?dl=1",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tony.kung.3",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com/in/thhkung",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/lpstandard",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Hack Reactor",
+        "degree":"Advanced Software Engineering Immersive",
+        "graduated":"August 2016",
+        "description":"Hack Reactor is an immersive 12 week coding boot camp (800+ hours) that teaches a JavaScript-focused curriculum (ReactJS, MongoDB, Express, AngularJS, Node, etc.)"
+      },
+      {
+        "school":"University of Texas at Austin",
+        "degree":"MBA",
+        "graduated":"May 2013",
+        "description":"Concentrated in finance and accounting"
+      },
+      {
+        "school":"Fu Jen Catholic University",
+        "degree":"Bachelor of Business Administration",
+        "graduated":"June 2000",
+        "description":"Concentrated in financial management"
+      }
+    ],
+    "work":[
+      {
+        "company":"V-Chain Solutions",
+        "title":"Financial Analyst / Product Tester",
+        "years":"July 2014 - Present",
+        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+      },
+      {
+        "company":"First Commercial Bank",
+        "title":"Sr. Associate",
+        "years":"March 2007 - February 2010",
+        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"jQuery",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Twittler",
+        "description":"A Twitter inspired short conversation feed platform allowing users to load new tweets and display them from different users  by clicking on usernames",
+        "category":"JavaScript, jQuery",
+        "tags":"Web Development",
+        "image":"Twittler.png",
+        "url":"https://lpstandard.github.io/hrf1-twittler",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Good News",
+        "description":"Single page web application to filter for positive news utilizing the New York Times and IBM Watson APIs.",
+        "category":"React-Node-Express-MongoDB",
+        "tags":"",
+        "image":"GoodNews.png",
+        "url":"https://github.com/GoodNews-MKS-39/Greenfield",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Event Pulse",
+        "description":"Executed and contributed full-stack web development project in Agile setting, with an emphasis on front-end features, browser manipulation, and responsive design",
+        "category":"React-Redux-Node-Express",
+        "tags":"",
+        "image":"EventPulse.png",
+        "url":"http://eventpulse.herokuapp.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Street Figher",
+        "description":"",
+        "category":"JavaScript, jQuery",
+        "tags":"",
+        "image":"StreetFighter.png",
+        "url":"http://lpstandard.github.io/jQuery-streetfighter/",
+        "modal":"#modal-05"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
+        "user":"Vince Lombardi"
+      },
+      {
+        "text":"A journey of a thousand miles begins with a single step.",
+        "user":"Lao Tzu"
+      }
+    ]
+  }
+}
