@@ -17,11 +17,6 @@
     "resumedownload":"https://www.dropbox.com/s/qaiizih9513swhl/Resume_Tony_Kung_JavaScript_Engineer%20%281%29.pdf?dl=1",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/tony.kung.3",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
         "url":"http://linkedin.com/in/thhkung",
         "className":"fa fa-linkedin"
