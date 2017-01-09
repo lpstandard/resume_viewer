@@ -10,7 +10,6 @@ class Contact extends Component {
          <div className="twelve columns">
             <ul className="copyright">
                <li>&copy; Copyright 2017 Tony Kung</li>
-               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
             </ul>
 
          </div>
