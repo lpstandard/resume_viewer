@@ -20,7 +20,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url: 'http://localhost:3000/resumeData.json',
+      url: 'https://kung-resume.herokuapp.com/resumeData.json',
       dataType: 'json',
       cache: false,
       success: function(data) {
@@ -43,7 +43,6 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
-
         <Portfolio data={this.state.resumeData.portfolio} />
         <Testimonials data={this.state.resumeData.testimonials} />
         <Footer />
