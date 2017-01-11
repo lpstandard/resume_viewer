@@ -136,6 +136,15 @@
         "image":"simple_survey.png",
         "url":"http://lilsurvey.herokuapp.com",
         "modal":"#modal-06"
+      },
+      {
+        "title":"BMI Calculator",
+        "description":"To calculate your BMI(Body Mass Index).",
+        "category":"React",
+        "tags":"",
+        "image":"BMI-Calculator.png",
+        "url":"https://whispering-mountain-49176.herokuapp.com",
+        "modal":"#modal-06"
       }
     ]
   },

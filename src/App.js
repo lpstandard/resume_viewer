@@ -21,6 +21,7 @@ class App extends Component {
   getResumeData(){
     $.ajax({
       url: 'http://www.tonykung.tech/resumeData.json',
+      // url: 'http://localhost:3000/resumeData.json',
       dataType: 'json',
       cache: false,
       success: function(data) {
