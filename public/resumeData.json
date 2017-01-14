@@ -145,6 +145,15 @@
         "image":"BMI-Calculator.png",
         "url":"https://whispering-mountain-49176.herokuapp.com",
         "modal":"#modal-06"
+      },
+      {
+        "title":"JavaScript Calculator",
+        "description":"To calculate your BMI(Body Mass Index).",
+        "category":"jQuery-LocalStorage",
+        "tags":"",
+        "image":"JS_Calculator.png",
+        "url":"https://lpstandard.github.io/JavaScript_Calculator/",
+        "modal":"#modal-06"
       }
     ]
   },
